@@ -1,0 +1,22 @@
+INTRODUÇÃO AO GIT/GITHUB
+
+Git: Sistema de controle de versões distribuídos. pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+Github - Repositório online.
+
+COMANDOS DO TERMINAL CMD (WINDOWS):
+
+- DIR - Lista os diretórios da pasta que estou.
+- CD- Navega entre as pastas
+- CD.. - Voltar para uma pasta anterior.
+- CLS - Limpar o terminal 
+- MKDIR - Criar uma nova pasta
+- ECHO - Retorna para o arquivo a frase que é colocada.
+- DEL - Apagar arquivos de uma pasta.
+- RMDIR - Excluir um diretório.
+
+Informações sobre git:
+
+- SHA1 - Identifica os arquivos de forma segura e rápida.
+- Chave SSH - Forma de estabelecer conexão segura e criptada entre duas máquinas.
+- Commit - Carrega uma mensagem de texto.
